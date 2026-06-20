@@ -79,7 +79,7 @@ Syntnx of clone
   git clone <repository-url>
 
   
-***Difference between git init and git clone
+Difference between git init and git clone
 Command	Purpose
 git init	Creates a new empty Git repository in the current folder
 git clone	Copies an existing repository from a remote source
