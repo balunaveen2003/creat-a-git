@@ -63,3 +63,18 @@ The .md extension means Markdown, a simple formatting language.
 **Q: What is the purpose of `README.md`?**
 
 **A:** `README.md` is a Markdown file that provides documentation about a project, including its purpose, installation steps, usage instructions, and other important information for users and developers.
+
+
+
+
+========== WHAT IS THEUSE OF GIT CLONE ============
+git clone – What is its use?
+
+The git clone command is used to copy an existing remote Git repository to your local computer.
+
+Syntnx of clone
+  git clone <repository-url>
+***Difference between git init and git clone
+Command	Purpose
+git init	Creates a new empty Git repository in the current folder
+git clone	Copies an existing repository from a remote source
